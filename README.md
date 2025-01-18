@@ -1,8 +1,8 @@
-# MiniGPT: A Simple Implementation of GPT
+# Transformer-Based Sequence Prediction Model
 
 ## Overview
 
-This project implements a small-scale GPT model from scratch using PyTorch. The model demonstrates high performance, achieving over **90% accuracy** on the example dataset.
+This project implements a small-scale GPT model from scratch using PyTorch. The model demonstrates high performance, achieving **>90% accuracy** on the example dataset.
 
 ### Features
 - Custom-built position encoding.
